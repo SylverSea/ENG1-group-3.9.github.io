@@ -5,3 +5,4 @@
 [Method selection and planning document](https://github.com/SylverSea/ENG1-group-3.9/Documentation/Method_selection_and_planning.docx)
 [Architecture document](https://github.com/SylverSea/ENG1-group-3.9/Documentation/Architecture.docx)
 [Implementation document](https://github.com/SylverSea/ENG1-group-3.9/Documentation/Implementation.docx)
+[Documentation folder](https://github.com/SylverSea/ENG1-group-3.9/Documentation/)
